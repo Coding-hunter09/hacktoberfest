@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Rajalaxmi Sarangi](https://github.com/Coding-hunter09)
+- Place: Odisha 
+- Bio: Web Developer PHP 
+- Github: [Coding-hunter09](https://github.com/Coding-hunter09) 
